@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "sailing",
+  "version": "${version}",
+  "name": "Sailing",
+  "description": "Wind, one-person dinghies, rough seas, and race equipment.",
+  "authors": ["You"],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.example.sailing.Sailing"],
+    "client": ["com.example.sailing.client.SailingClient"]
+  },
+  "depends": {
+    "fabricloader": ">=0.18.1",
+    "minecraft": "~1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

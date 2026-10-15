@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:paper",
+    "minecraft:paper",
+    "minecraft:stick",
+    "minecraft:gold_nugget"
+  ],
+  "result": {
+    "id": "sailing:race_clipboard",
+    "count": 1
+  }
+}

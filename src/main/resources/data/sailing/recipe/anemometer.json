@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:iron_ingot",
+    "minecraft:stick",
+    "minecraft:redstone"
+  ],
+  "result": {
+    "id": "sailing:anemometer",
+    "count": 1
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:white_wool",
+    "minecraft:white_wool",
+    "minecraft:white_wool",
+    "minecraft:stick",
+    "minecraft:stick",
+    "minecraft:string",
+    "minecraft:string",
+    "minecraft:gold_ingot"
+  ],
+  "result": {
+    "id": "sailing:skiff_rig",
+    "count": 1
+  }
+}

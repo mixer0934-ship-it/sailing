@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:white_wool",
+    "minecraft:stick",
+    "minecraft:stick",
+    "minecraft:string"
+  ],
+  "result": {
+    "id": "sailing:optimist_rig",
+    "count": 1
+  }
+}

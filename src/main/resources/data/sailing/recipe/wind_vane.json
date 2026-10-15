@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:stick",
+    "minecraft:stick",
+    "minecraft:iron_ingot",
+    "minecraft:red_dye"
+  ],
+  "result": {
+    "id": "sailing:wind_vane",
+    "count": 1
+  }
+}

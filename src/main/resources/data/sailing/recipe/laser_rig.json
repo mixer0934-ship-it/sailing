@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:white_wool",
+    "minecraft:white_wool",
+    "minecraft:stick",
+    "minecraft:stick",
+    "minecraft:string",
+    "minecraft:iron_ingot"
+  ],
+  "result": {
+    "id": "sailing:laser_rig",
+    "count": 1
+  }
+}

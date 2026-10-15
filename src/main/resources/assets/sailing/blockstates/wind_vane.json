@@ -1,0 +1,52 @@
+{
+  "variants": {
+    "rotation=0": {
+      "model": "sailing:block/wind_vane_0"
+    },
+    "rotation=1": {
+      "model": "sailing:block/wind_vane_1"
+    },
+    "rotation=2": {
+      "model": "sailing:block/wind_vane_2"
+    },
+    "rotation=3": {
+      "model": "sailing:block/wind_vane_3"
+    },
+    "rotation=4": {
+      "model": "sailing:block/wind_vane_4"
+    },
+    "rotation=5": {
+      "model": "sailing:block/wind_vane_5"
+    },
+    "rotation=6": {
+      "model": "sailing:block/wind_vane_6"
+    },
+    "rotation=7": {
+      "model": "sailing:block/wind_vane_7"
+    },
+    "rotation=8": {
+      "model": "sailing:block/wind_vane_8"
+    },
+    "rotation=9": {
+      "model": "sailing:block/wind_vane_9"
+    },
+    "rotation=10": {
+      "model": "sailing:block/wind_vane_10"
+    },
+    "rotation=11": {
+      "model": "sailing:block/wind_vane_11"
+    },
+    "rotation=12": {
+      "model": "sailing:block/wind_vane_12"
+    },
+    "rotation=13": {
+      "model": "sailing:block/wind_vane_13"
+    },
+    "rotation=14": {
+      "model": "sailing:block/wind_vane_14"
+    },
+    "rotation=15": {
+      "model": "sailing:block/wind_vane_15"
+    }
+  }
+}

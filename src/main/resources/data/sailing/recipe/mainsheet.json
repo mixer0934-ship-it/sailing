@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:string",
+    "minecraft:string",
+    "minecraft:string",
+    "minecraft:iron_nugget"
+  ],
+  "result": {
+    "id": "sailing:mainsheet",
+    "count": 1
+  }
+}
