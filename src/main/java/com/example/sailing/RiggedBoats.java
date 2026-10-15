@@ -1,6 +1,6 @@
 package com.example.sailing;
 
-import net.fabricmc.fabric.api.entity.event.v1.ServerEntityEvents;
+import net.fabricmc.fabric.api.event.lifecycle.v1.ServerEntityEvents;
 import net.fabricmc.fabric.api.event.lifecycle.v1.ServerTickEvents;
 import net.fabricmc.fabric.api.event.player.UseEntityCallback;
 import net.fabricmc.fabric.api.networking.v1.ServerPlayNetworking;
@@ -348,7 +348,7 @@ public final class RiggedBoats {
                     r.boat.getX(), r.boat.getY(), r.boat.getZ(), tag, blockId, transformation);
             MinecraftServer server = r.world.getServer();
             ServerCommandSource src = server.getCommandSource().withWorld(r.world).withSilent();
-            server.getCommandManager().executeWithPrefix(src, cmd);
+            server.getCommandManager().getDispatcher().execute(cmd, src);
         } catch (Exception e) {
             Sailing.LOGGER.warn("Display summon failed", e);
             return null;
